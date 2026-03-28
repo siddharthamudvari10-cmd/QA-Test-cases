@@ -9,6 +9,7 @@ Modules Covered
 * Login
 * Add to Cart
 * Checkout
+* Shipping details module
 
  Files
 
