@@ -1,1 +1,20 @@
-Simple ecommerce platform test cases. 
+ QA Test Cases Project
+
+Project Overview
+
+This repository contains manual test cases for an e-commerce application.
+
+Modules Covered
+
+* Login
+* Add to Cart
+* Checkout
+
+ Files
+
+* Excel test cases
+* Bug reports
+
+ Author
+Siddhartha Mudvari
+
